@@ -1,22 +1,23 @@
-# 🎓 ĐỒ ÁN CHUYÊN NGÀNH
+#  ĐỒ ÁN CHUYÊN NGÀNH -NHÓM 4
 
-## 🏫 Khoa Công Nghệ Thông Tin - Học Viện
+##  Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam
 
-### 📌 Đề tài: **[Tên đề tài của bạn]**
+### 📌 Đề tài: Xây dựng trang web bán điện thoại bằng Node.js
 
 ## 👥 Thành viên nhóm
-1. **[Tên Thành Viên 1]** - [Vai trò]
-2. **[Tên Thành Viên 2]** - [Vai trò]
-3. **[Tên Thành Viên 3]** - [Vai trò]
-4. **[Tên Thành Viên 4]** - [Vai trò]  
-*(Thêm hoặc bớt thành viên nếu cần)*
+1. **[Tuấn ]** - [Nhóm Trưởng]
+2. **[Nghĩa]** - [Thành Viên]
+3. **[Bảo]** - [Thành Viên]
+4. **[Bình]** - [Thành Viên]
+5. **[Tùng]** - [Thành Viên]
+
 
 ## 🛠 Công nghệ sử dụng
-- **Ngôn ngữ lập trình:** [JavaScript / Python / Java / ...]
-- **Frontend:** [React / Vue / Angular / HTML, CSS, Bootstrap, ...]
-- **Backend:** [Node.js / Express / Django / Spring Boot / ...]
-- **Database:** [MongoDB / MySQL / PostgreSQL / ...]
-- **Các công cụ khác:** [Docker / Firebase / Git / ...]
+- **Node.js
+- **Express
+- **MongoDB
+  
+
 
 ## 🚀 Hướng dẫn cài đặt & chạy dự án
 ```bash
@@ -31,9 +32,4 @@ npm install  # Hoặc yarn install
 npm start  # Hoặc yarn start
 ```
 
-## 📄 Giấy phép
-Dự án này được phát hành theo giấy phép **MIT**.
-
----
-✍ *Liên hệ nhóm để biết thêm thông tin về đồ án!* 🚀
 
